@@ -1,5 +1,7 @@
 # my-blog-posts
 
+[JavaScript’de Numeric Seperator Kullanmak](https://tugsanunlu.medium.com/javascriptde-numeric-seperator-kullanmak-a82a9b0097e2)
+
 [Verdaccio ile NPM Proxy Kullanımı](https://tugsanunlu.medium.com/verdaccio-ile-npm-proxy-kurmak-ve-y%C3%B6netmek-ef517d25756b)
 
 [Husky ile Git Hook’larını Yakalamak ve Yönetmek](https://tugsanunlu.medium.com/husky-ile-git-hooklar%C4%B1n%C4%B1-yakalamak-ve-y%C3%B6netmek-92ffbbf3d835)
