@@ -29,3 +29,5 @@
 [SendGrid API ile E-Posta Gönderimi](https://tugsanunlu.medium.com/sendgrid-api-ile-e-posta-g%C3%B6nderimi-30d3536edba2)
 
 [Nightwatch.js ile Uçtan Uca Testler Yazmak](https://tugsanunlu.medium.com/nightwatch-js-ile-u%C3%A7tan-uca-testler-yazmak-f67a82e7c974)
+
+[VuePress ile Statik Siteler Oluşturmak ve Yayınlamak](https://tugsanunlu.medium.com/vuepress-ile-statik-siteler-olu%C5%9Fturmak-ve-yay%C4%B1nlamak-49ee3f8a51b0)
