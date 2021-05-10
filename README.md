@@ -1,5 +1,7 @@
 # my-blog-posts
 
+[Webpack Speed Measure ile Build Sürelerini Ölçmek](https://tugsanunlu.medium.com/webpack-speed-measure-ile-build-s%C3%BCrelerini-%C3%B6l%C3%A7mek-6a4d417f65c8)
+
 [Webpack Bundle Analyzer ile Bundle Dosyalarını Analiz Etmek](https://tugsanunlu.medium.com/webpack-bundle-analyzer-ile-bundle-dosyalar%C4%B1n%C4%B1-analiz-etmek-23856d42cc2d)
 
 [React Docgen ile React Bileşenleri için Dokümanlar Oluşturmak](https://tugsanunlu.medium.com/react-docgen-ile-react-bile%C5%9Fenleri-i%C3%A7in-dok%C3%BCman-olu%C5%9Fturmak-3b11070e55e0)
